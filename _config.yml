@@ -1,6 +1,6 @@
 # Site settings
 title: iNewOne的博客
-SEOTitle: 我歌月徘徊，我舞影零乱
+SEOTitle: iNewOne的博客 | EasyFly
 header-img: img/post-bg-desk.jpg
 email: xujiangfei94@gmail.com
 description: "Every failure is leading towards success."
@@ -12,7 +12,7 @@ github_repo: "https://github.com/iNewOne/iNewOne.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
