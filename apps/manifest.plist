@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://inewone.github.io/apps/MobileBankProject.ipa</string>
+					<string>https://inewone.github.io/apps/Mall.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.crcc.jrTemp</string>
+				<string>com.mall.lanchengbang</string>
 				<key>bundle-version</key>
-				<string>3.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>MobileBankProject</string>
+				<string>Mall</string>
 			</dict>
 		</dict>
 	</array>
